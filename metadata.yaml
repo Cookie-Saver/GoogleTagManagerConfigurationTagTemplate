@@ -1,0 +1,5 @@
+homepage: "https://cookiesaver.io/"
+documentation: "https://support.cookiesaver.io/"
+versions:
+  - sha: a1cd731c3a121e0b09805ca32556dcc722d40e7a
+    changeNotes: Initial Version
